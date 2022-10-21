@@ -13,8 +13,9 @@
         <div class="col-md m-auto text-csenter mt-5">
           <div class="deskripsi_diri">
             <h4>Muhammad Nurul Aziz</h4>
-            <p>Saya merupakan seorang mahasiswa yang sedang menempuh Studi independent </p>
-            
+            <p>Saya merupakan seorang mahasiswa yang sedang menempuh Studi Independent Software Engineer </p>
+
+
           </div>
         </div>
       </div>
