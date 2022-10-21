@@ -1,6 +1,7 @@
 <template>
     <div class="contact">
       <h6> Silahkan untuk menghubungi saya</h6>
+      <br>
     <h1>{{ title }}</h1>
     <form @submit.prevent="submit">
       <BaseInput 
